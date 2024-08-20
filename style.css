@@ -161,6 +161,159 @@ body{
 }
 
 
+.descrição_titulo {
+    color: var();
+    font-weight: 700;
+}
+
+.descrição_titulo-livro {
+    color: var();
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.descrição_texto {
+    font-size: 14px;
+}
+
+.botões_ancora {
+    background-color: var();
+    padding: 1em 2.2em;
+    color: var();
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.botões_item {
+    margin: 0 0.5em;
+}
+.tópicos {
+    background: var();
+    text-align: center;
+    padding: 1em 0;
+}
+
+.tópicos_titulo {
+    color: var();
+    font-weight: 300;
+    margin-bottom: 1em;
+}
+
+.tópicos_lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tópicos_item {
+    margin: 2em 0.5em;
+}
+
+.tópicos_link {
+    color: var();
+    padding: 1em;
+    background-color: var();
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.contato {
+    background-color: var();
+    padding: 1em;
+}
+
+.contato_titulo,
+.contato_texto {
+    background: var();
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: ;
+    background-clip: text;
+}
+
+.contato_titulo {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.contato_texto {
+    font-weight: 300;
+    margin: 1em 0;
+}
+
+.contato_email {
+    padding: 1em;
+    border: 1px solid var();
+    border-radius: 24px;
+    width: 90%;
+    color: var();
+}
+
+.contato_email::placeholder {
+    font-family:var() ;
+    color: var();
+    background: url() no-repeat 5%;
+    padding-left: 2em;
+}
+hr {
+    margin: 0;
+}
+
+.rodapé {
+    background-color: var() ;
+    padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
